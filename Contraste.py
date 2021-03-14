@@ -113,4 +113,4 @@ ax[1, 1].set_title('5%')
 
 fig, ax = plt.subplots() 
 ax.imshow(imc3) 
-plt.savefig('ecrevisse_aug.jpg')
+plt.savefig('ecrevisse_aug.png')
