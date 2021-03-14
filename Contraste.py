@@ -79,7 +79,7 @@ def aug_contraste(M, percent = 0.01):
      Mc = Mc.astype(np.uint8)
      return Mc
  
-im = Image.open('panneau-brouillard.jpg') 
+im = Image.open('ecrevisse.png') 
 #im = Image.open('./Images/lena.png')
 
 M = np.asarray(im) 
